@@ -1,3 +1,0 @@
-Note the CryptoAPI is library code only - it is intended to be "used" by Delphi
-applications, which then call the functions it includes.
-
